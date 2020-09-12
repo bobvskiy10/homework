@@ -1,1 +1,1 @@
-homowork for algorithms and structures
+homework for algorithms and structures
